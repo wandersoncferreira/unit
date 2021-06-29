@@ -1,6 +1,8 @@
 # Unit
 
-Biblioteca para processamento assíncrono de forma fácil
+Biblioteca para processamento assíncrono de forma fácil. Esse código é
+basicamente uma re-escrita e simplificada da biblioteca
+https://github.com/app-sauce/async da App Sauce.
 
 
 # Funcionamento
